@@ -1,0 +1,4 @@
+PARTDTALIB*PARTDTALIB                                                                                                                     N
+PARTLIB   *PARTLIB                                                                                                                        N
+PARTPGMLIB*PARTPGMLIB                                                                                                                     N
+SYSTEMLIB *SYSTEMLIB                                                                                                                      N
