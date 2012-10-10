@@ -46,7 +46,7 @@ DF	XDX00082  BWaiting 16
 DF	XDXALPHA  NAlpha 256                                                                               NNNNNNNNNNN         N
 DF	XDXBOOLEA NBoolea                                                                                  NNNNNNNNNNN         N
 DF	XDXCAPTIO NCaption                                                                                 NNNNNNNNNNN         N
-DF	XDXDESC   NDescription
+DF	XDXDESC   NDescription                                                                             NNNNNNNNNNN         N
 DF	XDXEXAMPL NExample Identifier                                                                      NNNNNNNNNNN         N
 DF	XDXNUMBER NNumber                                                                                  NNNNNNNNNNN         N
 DF	XDXORIGIN NEvent Origin                                                                            NNNNNNNNNNN         N
@@ -180,7 +180,7 @@ MT	*MTXTXDX038         Animations...think Apple taskbar
 MT	*MTXTXDX039         Resizing Controls...Think Document or Image Viewers
 MT	*MTXTXDX040         Settings
 MT	*MTXTXDX041         Item &1
-MT	*MTXTXDX042         Menu Item
+MT	*MTXTXDX042         &1 Menu Item &2
 MT	*MTXTXDX043         Font
 MT	*MTXTXDX044         Text Color
 MT	*MTXTXDX045         Corners
@@ -233,6 +233,8 @@ MT	*MTXTXDX091         Error
 MT	*MTXTXDX092         This text will become more visible as the brush opacity decreases
 MT	*MTXTXDX093         Adding extra items on reaching the last one
 PL	ENG
+PL	FRA
+PL	JPN
 PO	Deploy to Development System                                DEVSYS
 PT	VERSION
 TM	XDEVELOP
