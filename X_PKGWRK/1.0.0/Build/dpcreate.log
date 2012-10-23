@@ -1,126 +1,126 @@
-C MSI Build (Step 1) started	2012-10-22 10:47:19.000000000
-C Copy of file lxxbdf.asc was successful	2012-10-22 10:47:19.000000000
-C Copy of file xdx00002.DLL was successful	2012-10-22 10:47:19.000000000
-C Copy of file xdx00003.DLL was successful	2012-10-22 10:47:19.000000000
-C Copy of file xdx00004.DLL was successful	2012-10-22 10:47:19.000000000
-C Copy of file xdx00005.DLL was successful	2012-10-22 10:47:19.000000000
-C Copy of file xdx00006.DLL was successful	2012-10-22 10:47:19.000000000
-C Copy of file xdx00008.DLL was successful	2012-10-22 10:47:19.000000000
-C Copy of file xdx00009.DLL was successful	2012-10-22 10:47:19.000000000
-C Copy of file xdx00011.DLL was successful	2012-10-22 10:47:19.000000000
-C Copy of file xdx00012.DLL was successful	2012-10-22 10:47:19.000000000
-C Copy of file xdx00014.DLL was successful	2012-10-22 10:47:19.000000000
-C Copy of file xdx00015.DLL was successful	2012-10-22 10:47:19.000000000
-C Copy of file xdx00016.DLL was successful	2012-10-22 10:47:19.000000000
-C Copy of file xdx00018.DLL was successful	2012-10-22 10:47:19.000000000
-C Copy of file xdx00020.DLL was successful	2012-10-22 10:47:19.000000000
-C Copy of file xdx00025.DLL was successful	2012-10-22 10:47:19.000000000
-C Copy of file xdx00026.DLL was successful	2012-10-22 10:47:19.000000000
-C Copy of file xdx00027.DLL was successful	2012-10-22 10:47:19.000000000
-C Copy of file xdx00030.DLL was successful	2012-10-22 10:47:19.000000000
-C Copy of file xdx00031.DLL was successful	2012-10-22 10:47:19.000000000
-C Copy of file xdx00032.DLL was successful	2012-10-22 10:47:19.000000000
-C Copy of file xdx00033.DLL was successful	2012-10-22 10:47:19.000000000
-C Copy of file xdx00035.DLL was successful	2012-10-22 10:47:19.000000000
-C Copy of file xdx00056.DLL was successful	2012-10-22 10:47:19.000000000
-C Copy of file xdx00059.DLL was successful	2012-10-22 10:47:19.000000000
-C Copy of file xdx00061.DLL was successful	2012-10-22 10:47:19.000000000
-C Copy of file xdx00062.DLL was successful	2012-10-22 10:47:19.000000000
-C Copy of file xdx00063.DLL was successful	2012-10-22 10:47:19.000000000
-C Copy of file xdx00068.DLL was successful	2012-10-22 10:47:19.000000000
-C Copy of file xdx00069.DLL was successful	2012-10-22 10:47:19.000000000
-C Copy of file xdx00071.DLL was successful	2012-10-22 10:47:19.000000000
-C Copy of file xdx00072.DLL was successful	2012-10-22 10:47:19.000000000
-C Copy of file xdx00073.DLL was successful	2012-10-22 10:47:19.000000000
-C Copy of file xdx00077.DLL was successful	2012-10-22 10:47:19.000000000
-C Copy of file xdx00078.DLL was successful	2012-10-22 10:47:19.000000000
-C Copy of file xdx00079.DLL was successful	2012-10-22 10:47:19.000000000
-C Copy of file xdx00083.DLL was successful	2012-10-22 10:47:19.000000000
-C Export of LANSA internal data - Started	2012-10-22 10:47:19.000000000
- 	2012-10-22 10:47:19.000000000
--> Object Export Facility Started 22/10/12 10:47:24 (10:47:24)	2012-10-22 10:47:19.000000000
--> This procedure is being logged into file C:\Users\Stewart\AppData\Local\Temp\export.log (10:47:24)	2012-10-22 10:47:19.000000000
--> Export of table lxxf60 (to C:\LANSA\IDE13DEV\X_WIN95\X_LANSA\X_APPS\DEMOAPP\X_PKGWRK\1.0.0\build\internal\lxxf60.asc) in progress. Please wait (10:47:24)	2012-10-22 10:47:19.000000000
--> Export of table lxxf60 (to C:\LANSA\IDE13DEV\X_WIN95\X_LANSA\X_APPS\DEMOAPP\X_PKGWRK\1.0.0\build\internal\lxxf60.asc) completed normally (10:47:24)	2012-10-22 10:47:19.000000000
--> Definition of field/component XDX00001 successfully exported. (10:47:25)	2012-10-22 10:47:19.000000000
--> Definition of field/component XDX00002 successfully exported. (10:47:25)	2012-10-22 10:47:19.000000000
--> Definition of field/component XDX00003 successfully exported. (10:47:25)	2012-10-22 10:47:19.000000000
--> Definition of field/component XDX00004 successfully exported. (10:47:25)	2012-10-22 10:47:19.000000000
--> Definition of field/component XDX00005 successfully exported. (10:47:25)	2012-10-22 10:47:19.000000000
--> Definition of field/component XDX00006 successfully exported. (10:47:25)	2012-10-22 10:47:19.000000000
--> Definition of field/component XDX00007 successfully exported. (10:47:25)	2012-10-22 10:47:19.000000000
--> Definition of field/component XDX00008 successfully exported. (10:47:25)	2012-10-22 10:47:19.000000000
--> Definition of field/component XDX00009 successfully exported. (10:47:25)	2012-10-22 10:47:19.000000000
--> Definition of field/component XDX00010 successfully exported. (10:47:26)	2012-10-22 10:47:19.000000000
--> Definition of field/component XDX00011 successfully exported. (10:47:26)	2012-10-22 10:47:19.000000000
--> Definition of field/component XDX00012 successfully exported. (10:47:26)	2012-10-22 10:47:19.000000000
--> Definition of field/component XDX00013 successfully exported. (10:47:26)	2012-10-22 10:47:19.000000000
--> Definition of field/component XDX00014 successfully exported. (10:47:26)	2012-10-22 10:47:19.000000000
--> Definition of field/component XDX00015 successfully exported. (10:47:26)	2012-10-22 10:47:19.000000000
--> Definition of field/component XDX00016 successfully exported. (10:47:26)	2012-10-22 10:47:19.000000000
--> Definition of field/component XDX00017 successfully exported. (10:47:26)	2012-10-22 10:47:19.000000000
--> Definition of field/component XDX00018 successfully exported. (10:47:26)	2012-10-22 10:47:19.000000000
--> Definition of field/component XDX00019 successfully exported. (10:47:26)	2012-10-22 10:47:19.000000000
--> Definition of field/component XDX00020 successfully exported. (10:47:26)	2012-10-22 10:47:19.000000000
--> Definition of field/component XDX00021 successfully exported. (10:47:26)	2012-10-22 10:47:19.000000000
--> Definition of field/component XDX00022 successfully exported. (10:47:26)	2012-10-22 10:47:19.000000000
--> Definition of field/component XDX00023 successfully exported. (10:47:26)	2012-10-22 10:47:19.000000000
--> Definition of field/component XDX00024 successfully exported. (10:47:26)	2012-10-22 10:47:19.000000000
--> Definition of field/component XDX00025 successfully exported. (10:47:27)	2012-10-22 10:47:19.000000000
--> Definition of field/component XDX00026 successfully exported. (10:47:27)	2012-10-22 10:47:19.000000000
--> Definition of field/component XDX00027 successfully exported. (10:47:27)	2012-10-22 10:47:19.000000000
--> Definition of field/component XDX00028 successfully exported. (10:47:27)	2012-10-22 10:47:19.000000000
--> Definition of field/component XDX00030 successfully exported. (10:47:27)	2012-10-22 10:47:19.000000000
--> Definition of field/component XDX00031 successfully exported. (10:47:27)	2012-10-22 10:47:19.000000000
--> Definition of field/component XDX00032 successfully exported. (10:47:27)	2012-10-22 10:47:19.000000000
--> Definition of field/component XDX00033 successfully exported. (10:47:27)	2012-10-22 10:47:19.000000000
--> Definition of field/component XDX00034 successfully exported. (10:47:27)	2012-10-22 10:47:19.000000000
--> Definition of field/component XDX00035 successfully exported. (10:47:27)	2012-10-22 10:47:19.000000000
--> Definition of field/component XDX00036 successfully exported. (10:47:27)	2012-10-22 10:47:19.000000000
--> Definition of field/component XDX00037 successfully exported. (10:47:27)	2012-10-22 10:47:19.000000000
--> Definition of field/component XDX00038 successfully exported. (10:47:28)	2012-10-22 10:47:19.000000000
--> Definition of field/component XDX00039 successfully exported. (10:47:28)	2012-10-22 10:47:19.000000000
--> Definition of field/component XDX00040 successfully exported. (10:47:28)	2012-10-22 10:47:19.000000000
--> Definition of field/component XDX00041 successfully exported. (10:47:28)	2012-10-22 10:47:19.000000000
--> Definition of field/component XDX00042 successfully exported. (10:47:28)	2012-10-22 10:47:19.000000000
--> Definition of field/component XDX00043 successfully exported. (10:47:28)	2012-10-22 10:47:19.000000000
--> Definition of field/component XDX00044 successfully exported. (10:47:28)	2012-10-22 10:47:19.000000000
--> Definition of field/component XDX00045 successfully exported. (10:47:28)	2012-10-22 10:47:19.000000000
--> Definition of field/component XDX00046 successfully exported. (10:47:28)	2012-10-22 10:47:19.000000000
--> Definition of field/component XDX00047 successfully exported. (10:47:28)	2012-10-22 10:47:19.000000000
--> Definition of field/component XDX00048 successfully exported. (10:47:28)	2012-10-22 10:47:19.000000000
--> Definition of field/component XDX00049 successfully exported. (10:47:28)	2012-10-22 10:47:19.000000000
--> Definition of field/component XDX00050 successfully exported. (10:47:28)	2012-10-22 10:47:19.000000000
--> Definition of field/component XDX00051 successfully exported. (10:47:28)	2012-10-22 10:47:19.000000000
--> Definition of field/component XDX00052 successfully exported. (10:47:28)	2012-10-22 10:47:19.000000000
--> Definition of field/component XDX00053 successfully exported. (10:47:28)	2012-10-22 10:47:19.000000000
--> Definition of field/component XDX00054 successfully exported. (10:47:29)	2012-10-22 10:47:19.000000000
--> Definition of field/component XDX00055 successfully exported. (10:47:29)	2012-10-22 10:47:19.000000000
--> Definition of field/component XDX00056 successfully exported. (10:47:29)	2012-10-22 10:47:19.000000000
--> Definition of field/component XDX00057 successfully exported. (10:47:29)	2012-10-22 10:47:19.000000000
--> Definition of field/component XDX00058 successfully exported. (10:47:29)	2012-10-22 10:47:19.000000000
--> Definition of field/component XDX00059 successfully exported. (10:47:29)	2012-10-22 10:47:19.000000000
--> Definition of field/component XDX00060 successfully exported. (10:47:30)	2012-10-22 10:47:19.000000000
--> Definition of field/component XDX00061 successfully exported. (10:47:30)	2012-10-22 10:47:19.000000000
--> Definition of field/component XDX00062 successfully exported. (10:47:30)	2012-10-22 10:47:19.000000000
--> Definition of field/component XDX00063 successfully exported. (10:47:30)	2012-10-22 10:47:19.000000000
--> Definition of field/component XDX00064 successfully exported. (10:47:30)	2012-10-22 10:47:19.000000000
--> Definition of field/component XDX00065 successfully exported. (10:47:30)	2012-10-22 10:47:19.000000000
--> Definition of field/component XDX00066 successfully exported. (10:47:30)	2012-10-22 10:47:19.000000000
--> Definition of field/component XDX00067 successfully exported. (10:47:30)	2012-10-22 10:47:19.000000000
--> Definition of field/component XDX00068 successfully exported. (10:47:30)	2012-10-22 10:47:19.000000000
--> Definition of field/component XDX00069 successfully exported. (10:47:30)	2012-10-22 10:47:19.000000000
--> Definition of field XDX00070 not found or incomplete. Field not exported. (10:47:30)	2012-10-22 10:47:19.000000000
--> Object Export Facility Ended 22/10/12 10:47:30. 1 fatal errors were detected. 0 warnings were issued. (10:47:30)	2012-10-22 10:47:19.000000000
- 	2012-10-22 10:47:19.000000000
-F Export of LANSA internal data - Failed	2012-10-22 10:47:19.000000000
-C Copy of file pkgdesc.txt was successful	2012-10-22 10:47:19.000000000
-C Copy of file appdesc.txt was successful	2012-10-22 10:47:19.000000000
-C Copy of file lxxadf.asc was successful	2012-10-22 10:47:19.000000000
-F Package includes objects not available in the local repository	2012-10-22 10:47:19.000000000
-F MSI Build (Step 1) failed	2012-10-22 10:47:19.000000000
- 	2012-10-22 10:47:19.000000000
-F MSI Build (Step 2) bypassed due to fatal errors in package	2012-10-22 10:47:19.000000000
-            42 Completion messages	2012-10-22 10:47:19.000000000
-            0 Warning messages	2012-10-22 10:47:19.000000000
-            4 Fatal messages	2012-10-22 10:47:19.000000000
+C MSI Build (Step 1) started	2012-10-23 14:20:39.000000000
+C Copy of file lxxbdf.asc was successful	2012-10-23 14:20:39.000000000
+C Copy of file xdx00002.DLL was successful	2012-10-23 14:20:39.000000000
+C Copy of file xdx00003.DLL was successful	2012-10-23 14:20:39.000000000
+C Copy of file xdx00004.DLL was successful	2012-10-23 14:20:39.000000000
+C Copy of file xdx00005.DLL was successful	2012-10-23 14:20:39.000000000
+C Copy of file xdx00006.DLL was successful	2012-10-23 14:20:39.000000000
+C Copy of file xdx00008.DLL was successful	2012-10-23 14:20:39.000000000
+C Copy of file xdx00009.DLL was successful	2012-10-23 14:20:39.000000000
+C Copy of file xdx00011.DLL was successful	2012-10-23 14:20:39.000000000
+C Copy of file xdx00012.DLL was successful	2012-10-23 14:20:39.000000000
+C Copy of file xdx00014.DLL was successful	2012-10-23 14:20:39.000000000
+C Copy of file xdx00015.DLL was successful	2012-10-23 14:20:39.000000000
+C Copy of file xdx00016.DLL was successful	2012-10-23 14:20:39.000000000
+C Copy of file xdx00018.DLL was successful	2012-10-23 14:20:39.000000000
+C Copy of file xdx00020.DLL was successful	2012-10-23 14:20:39.000000000
+C Copy of file xdx00025.DLL was successful	2012-10-23 14:20:39.000000000
+C Copy of file xdx00026.DLL was successful	2012-10-23 14:20:39.000000000
+C Copy of file xdx00027.DLL was successful	2012-10-23 14:20:39.000000000
+C Copy of file xdx00030.DLL was successful	2012-10-23 14:20:39.000000000
+C Copy of file xdx00031.DLL was successful	2012-10-23 14:20:39.000000000
+C Copy of file xdx00032.DLL was successful	2012-10-23 14:20:39.000000000
+C Copy of file xdx00033.DLL was successful	2012-10-23 14:20:39.000000000
+C Copy of file xdx00035.DLL was successful	2012-10-23 14:20:39.000000000
+C Copy of file xdx00056.DLL was successful	2012-10-23 14:20:39.000000000
+C Copy of file xdx00059.DLL was successful	2012-10-23 14:20:39.000000000
+C Copy of file xdx00061.DLL was successful	2012-10-23 14:20:39.000000000
+C Copy of file xdx00062.DLL was successful	2012-10-23 14:20:39.000000000
+C Copy of file xdx00063.DLL was successful	2012-10-23 14:20:39.000000000
+C Copy of file xdx00068.DLL was successful	2012-10-23 14:20:39.000000000
+C Copy of file xdx00069.DLL was successful	2012-10-23 14:20:39.000000000
+C Copy of file xdx00071.DLL was successful	2012-10-23 14:20:39.000000000
+C Copy of file xdx00072.DLL was successful	2012-10-23 14:20:39.000000000
+C Copy of file xdx00073.DLL was successful	2012-10-23 14:20:39.000000000
+C Copy of file xdx00077.DLL was successful	2012-10-23 14:20:39.000000000
+C Copy of file xdx00078.DLL was successful	2012-10-23 14:20:39.000000000
+C Copy of file xdx00079.DLL was successful	2012-10-23 14:20:39.000000000
+C Copy of file xdx00083.DLL was successful	2012-10-23 14:20:39.000000000
+C Export of LANSA internal data - Started	2012-10-23 14:20:39.000000000
+ 	2012-10-23 14:20:39.000000000
+-> Object Export Facility Started 23/10/12 14:20:43 (14:20:43)	2012-10-23 14:20:39.000000000
+-> This procedure is being logged into file C:\Users\Stewart\AppData\Local\Temp\export.log (14:20:43)	2012-10-23 14:20:39.000000000
+-> Export of table lxxf60 (to C:\LANSA\IDE13DEV\X_WIN95\X_LANSA\X_APPS\DEMOAPP\X_PKGWRK\1.0.0\build\internal\lxxf60.asc) in progress. Please wait (14:20:43)	2012-10-23 14:20:39.000000000
+-> Export of table lxxf60 (to C:\LANSA\IDE13DEV\X_WIN95\X_LANSA\X_APPS\DEMOAPP\X_PKGWRK\1.0.0\build\internal\lxxf60.asc) completed normally (14:20:43)	2012-10-23 14:20:39.000000000
+-> Definition of field/component XDX00001 successfully exported. (14:20:44)	2012-10-23 14:20:39.000000000
+-> Definition of field/component XDX00002 successfully exported. (14:20:44)	2012-10-23 14:20:39.000000000
+-> Definition of field/component XDX00003 successfully exported. (14:20:44)	2012-10-23 14:20:39.000000000
+-> Definition of field/component XDX00004 successfully exported. (14:20:44)	2012-10-23 14:20:39.000000000
+-> Definition of field/component XDX00005 successfully exported. (14:20:44)	2012-10-23 14:20:39.000000000
+-> Definition of field/component XDX00006 successfully exported. (14:20:44)	2012-10-23 14:20:39.000000000
+-> Definition of field/component XDX00007 successfully exported. (14:20:44)	2012-10-23 14:20:39.000000000
+-> Definition of field/component XDX00008 successfully exported. (14:20:44)	2012-10-23 14:20:39.000000000
+-> Definition of field/component XDX00009 successfully exported. (14:20:44)	2012-10-23 14:20:39.000000000
+-> Definition of field/component XDX00010 successfully exported. (14:20:45)	2012-10-23 14:20:39.000000000
+-> Definition of field/component XDX00011 successfully exported. (14:20:45)	2012-10-23 14:20:39.000000000
+-> Definition of field/component XDX00012 successfully exported. (14:20:45)	2012-10-23 14:20:39.000000000
+-> Definition of field/component XDX00013 successfully exported. (14:20:45)	2012-10-23 14:20:39.000000000
+-> Definition of field/component XDX00014 successfully exported. (14:20:45)	2012-10-23 14:20:39.000000000
+-> Definition of field/component XDX00015 successfully exported. (14:20:45)	2012-10-23 14:20:39.000000000
+-> Definition of field/component XDX00016 successfully exported. (14:20:45)	2012-10-23 14:20:39.000000000
+-> Definition of field/component XDX00017 successfully exported. (14:20:45)	2012-10-23 14:20:39.000000000
+-> Definition of field/component XDX00018 successfully exported. (14:20:45)	2012-10-23 14:20:39.000000000
+-> Definition of field/component XDX00019 successfully exported. (14:20:45)	2012-10-23 14:20:39.000000000
+-> Definition of field/component XDX00020 successfully exported. (14:20:45)	2012-10-23 14:20:39.000000000
+-> Definition of field/component XDX00021 successfully exported. (14:20:45)	2012-10-23 14:20:39.000000000
+-> Definition of field/component XDX00022 successfully exported. (14:20:45)	2012-10-23 14:20:39.000000000
+-> Definition of field/component XDX00023 successfully exported. (14:20:45)	2012-10-23 14:20:39.000000000
+-> Definition of field/component XDX00024 successfully exported. (14:20:45)	2012-10-23 14:20:39.000000000
+-> Definition of field/component XDX00025 successfully exported. (14:20:45)	2012-10-23 14:20:39.000000000
+-> Definition of field/component XDX00026 successfully exported. (14:20:46)	2012-10-23 14:20:39.000000000
+-> Definition of field/component XDX00027 successfully exported. (14:20:46)	2012-10-23 14:20:39.000000000
+-> Definition of field/component XDX00028 successfully exported. (14:20:46)	2012-10-23 14:20:39.000000000
+-> Definition of field/component XDX00030 successfully exported. (14:20:46)	2012-10-23 14:20:39.000000000
+-> Definition of field/component XDX00031 successfully exported. (14:20:46)	2012-10-23 14:20:39.000000000
+-> Definition of field/component XDX00032 successfully exported. (14:20:46)	2012-10-23 14:20:39.000000000
+-> Definition of field/component XDX00033 successfully exported. (14:20:46)	2012-10-23 14:20:39.000000000
+-> Definition of field/component XDX00034 successfully exported. (14:20:46)	2012-10-23 14:20:39.000000000
+-> Definition of field/component XDX00035 successfully exported. (14:20:46)	2012-10-23 14:20:39.000000000
+-> Definition of field/component XDX00036 successfully exported. (14:20:46)	2012-10-23 14:20:39.000000000
+-> Definition of field/component XDX00037 successfully exported. (14:20:46)	2012-10-23 14:20:39.000000000
+-> Definition of field/component XDX00038 successfully exported. (14:20:46)	2012-10-23 14:20:39.000000000
+-> Definition of field/component XDX00039 successfully exported. (14:20:46)	2012-10-23 14:20:39.000000000
+-> Definition of field/component XDX00040 successfully exported. (14:20:46)	2012-10-23 14:20:39.000000000
+-> Definition of field/component XDX00041 successfully exported. (14:20:47)	2012-10-23 14:20:39.000000000
+-> Definition of field/component XDX00042 successfully exported. (14:20:47)	2012-10-23 14:20:39.000000000
+-> Definition of field/component XDX00043 successfully exported. (14:20:47)	2012-10-23 14:20:39.000000000
+-> Definition of field/component XDX00044 successfully exported. (14:20:47)	2012-10-23 14:20:39.000000000
+-> Definition of field/component XDX00045 successfully exported. (14:20:47)	2012-10-23 14:20:39.000000000
+-> Definition of field/component XDX00046 successfully exported. (14:20:47)	2012-10-23 14:20:39.000000000
+-> Definition of field/component XDX00047 successfully exported. (14:20:47)	2012-10-23 14:20:39.000000000
+-> Definition of field/component XDX00048 successfully exported. (14:20:47)	2012-10-23 14:20:39.000000000
+-> Definition of field/component XDX00049 successfully exported. (14:20:47)	2012-10-23 14:20:39.000000000
+-> Definition of field/component XDX00050 successfully exported. (14:20:47)	2012-10-23 14:20:39.000000000
+-> Definition of field/component XDX00051 successfully exported. (14:20:47)	2012-10-23 14:20:39.000000000
+-> Definition of field/component XDX00052 successfully exported. (14:20:47)	2012-10-23 14:20:39.000000000
+-> Definition of field/component XDX00053 successfully exported. (14:20:47)	2012-10-23 14:20:39.000000000
+-> Definition of field/component XDX00054 successfully exported. (14:20:47)	2012-10-23 14:20:39.000000000
+-> Definition of field/component XDX00055 successfully exported. (14:20:48)	2012-10-23 14:20:39.000000000
+-> Definition of field/component XDX00056 successfully exported. (14:20:48)	2012-10-23 14:20:39.000000000
+-> Definition of field/component XDX00057 successfully exported. (14:20:48)	2012-10-23 14:20:39.000000000
+-> Definition of field/component XDX00058 successfully exported. (14:20:48)	2012-10-23 14:20:39.000000000
+-> Definition of field/component XDX00059 successfully exported. (14:20:48)	2012-10-23 14:20:39.000000000
+-> Definition of field/component XDX00060 successfully exported. (14:20:48)	2012-10-23 14:20:39.000000000
+-> Definition of field/component XDX00061 successfully exported. (14:20:48)	2012-10-23 14:20:39.000000000
+-> Definition of field/component XDX00062 successfully exported. (14:20:49)	2012-10-23 14:20:39.000000000
+-> Definition of field/component XDX00063 successfully exported. (14:20:49)	2012-10-23 14:20:39.000000000
+-> Definition of field/component XDX00064 successfully exported. (14:20:49)	2012-10-23 14:20:39.000000000
+-> Definition of field/component XDX00065 successfully exported. (14:20:49)	2012-10-23 14:20:39.000000000
+-> Definition of field/component XDX00066 successfully exported. (14:20:49)	2012-10-23 14:20:39.000000000
+-> Definition of field/component XDX00067 successfully exported. (14:20:49)	2012-10-23 14:20:39.000000000
+-> Definition of field/component XDX00068 successfully exported. (14:20:49)	2012-10-23 14:20:39.000000000
+-> Definition of field/component XDX00069 successfully exported. (14:20:49)	2012-10-23 14:20:39.000000000
+-> Definition of field XDX00070 not found or incomplete. Field not exported. (14:20:49)	2012-10-23 14:20:39.000000000
+-> Object Export Facility Ended 23/10/12 14:20:49. 1 fatal errors were detected. 0 warnings were issued. (14:20:49)	2012-10-23 14:20:39.000000000
+ 	2012-10-23 14:20:39.000000000
+F Export of LANSA internal data - Failed	2012-10-23 14:20:39.000000000
+C Copy of file pkgdesc.txt was successful	2012-10-23 14:20:39.000000000
+C Copy of file appdesc.txt was successful	2012-10-23 14:20:39.000000000
+C Copy of file lxxadf.asc was successful	2012-10-23 14:20:39.000000000
+F Package includes objects not available in the local repository	2012-10-23 14:20:39.000000000
+F MSI Build (Step 1) failed	2012-10-23 14:20:39.000000000
+ 	2012-10-23 14:20:39.000000000
+F MSI Build (Step 2) bypassed due to fatal errors in package	2012-10-23 14:20:39.000000000
+            42 Completion messages	2012-10-23 14:20:39.000000000
+            0 Warning messages	2012-10-23 14:20:39.000000000
+            4 Fatal messages	2012-10-23 14:20:39.000000000
