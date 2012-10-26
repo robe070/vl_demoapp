@@ -28,7 +28,7 @@ DF	XDX00051  BMario Smash 4
 DF	XDX00052  BSummer Sport 1
 DF	XDX00053  BSummer Sport 2
 DF	XDX00054  BSummer Sport 3
-DF	XDX00055  BXDXImageSummerSport4
+DF	XDX00055  BSummer Sport 4
 DF	XDX00057  BLeft Arrow 16
 DF	XDX00058  BRight Arrow 16
 DF	XDX00060  BEmployee 512
@@ -36,7 +36,6 @@ DF	XDX00064  BStop 16
 DF	XDX00065  BPlay 16
 DF	XDX00066  BPause 16
 DF	XDX00067  BPlay 64
-DF	XDX00070  BArtist 32
 DF	XDX00074  BSample Toolbar Image16
 DF	XDX00075  BSample Toolbar Image 16 (2)
 DF	XDX00076  BPause 64
@@ -44,7 +43,7 @@ DF	XDX00080  BStop 64
 DF	XDX00081  BWaiting 64
 DF	XDX00082  BWaiting 16
 DF	XDXALPHA  NAlpha 256                                                                               NNNNNNNNNNN         N
-DF	XDXBOOLEA NBoolea                                                                                  NNNNNNNNNNN         N
+DF	XDXBOOLEA NBoolean                                                                                 NNNNNNNNNNN         N
 DF	XDXCAPTIO NCaption                                                                                 NNNNNNNNNNN         N
 DF	XDXDESC   NDescription                                                                             NNNNNNNNNNN         N
 DF	XDXEXAMPL NExample Identifier                                                                      NNNNNNNNNNN         N
@@ -54,7 +53,7 @@ DF	XDXSENDER NEvent Sender                                                      
 DF	XDX00002  FDirectX Examples                                                                        NNNNNNNNNNN         N
 DF	XDX00056  FSettings Dialog                                                                         NNNNNNNNNNN         N
 DF	XDX00061  FBase Form                                                                               NNNNNNNNNNN         N
-DF	XDX00068  FDirect Examples Start Form                                                              NNNNNNNNNNN         N
+DF	XDX00068  FDirectX Examples Start Form                                                             NNNNNNNNNNN         N
 DF	XDX00003  RBrushes                                                                                 NNNNNNNNNNN         N
 DF	XDX00004  RShared Application Object                                                               NNNNNNNNNNN         N
 DF	XDX00005  RTree Design                                                                             NNNNNNNNNNN         N
@@ -179,7 +178,7 @@ MT	*MTXTXDX037         Animations...think splash screens
 MT	*MTXTXDX038         Animations...think Apple taskbar
 MT	*MTXTXDX039         Resizing Controls...Think Document or Image Viewers
 MT	*MTXTXDX040         Settings
-MT	*MTXTXDX041         Item &1
+MT	*MTXTXDX041         &1 Item &2
 MT	*MTXTXDX042         &1 Menu Item &2
 MT	*MTXTXDX043         Font
 MT	*MTXTXDX044         Text Color
