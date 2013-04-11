@@ -54,38 +54,40 @@ DF	XDX00002  FDirectX Examples                                                  
 DF	XDX00056  FSettings Dialog                                                                         NNNNNNNNNNN         N
 DF	XDX00061  FBase Form                                                                               NNNNNNNNNNN         N
 DF	XDX00068  FDirectX Examples Start Form                                                             NNNNNNNNNNN         N
-DF	XDX00003  RBrushes                                                                                 NNNNNNNNNNN         N
-DF	XDX00004  RShared Application Object                                                               NNNNNNNNNNN         N
-DF	XDX00005  RTree Design                                                                             NNNNNNNNNNN         N
-DF	XDX00006  RTile Control                                                                            NNNNNNNNNNN         N
-DF	XDX00008  RCarousel                                                                                NNNNNNNNNNN         N
-DF	XDX00009  RCarousel Design                                                                         NNNNNNNNNNN         N
-DF	XDX00011  RBanner                                                                                  NNNNNNNNNNN         N
-DF	XDX00012  RTileDesign                                                                              NNNNNNNNNNN         N
-DF	XDX00014  RTree                                                                                    NNNNNNNNNNN         N
-DF	XDX00015  RPersonnel Tree Design Base Class                                                        NNNNNNNNNNN         N
-DF	XDX00016  RTree Department Design                                                                  NNNNNNNNNNN         N
-DF	XDX00018  RTree Section Design                                                                     NNNNNNNNNNN         N
-DF	XDX00020  RTree Employee Design                                                                    NNNNNNNNNNN         N
-DF	XDX00025  RTable Layout And Font Rotation                                                          NNNNNNNNNNN         N
-DF	XDX00026  RBouncing Balls                                                                          NNNNNNNNNNN         N
-DF	XDX00027  RScaling                                                                                 NNNNNNNNNNN         N
-DF	XDX00030  RDynamic Styles                                                                          NNNNNNNNNNN         N
-DF	XDX00031  RBookDesign                                                                              NNNNNNNNNNN         N
-DF	XDX00032  RBook                                                                                    NNNNNNNNNNN         N
-DF	XDX00033  RBase Panel                                                                              NNNNNNNNNNN         N
-DF	XDX00035  RScale and Animations                                                                    NNNNNNNNNNN         N
-DF	XDX00059  RHint                                                                                    NNNNNNNNNNN         N
-DF	XDX00062  RExamples Tree                                                                           NNNNNNNNNNN         N
-DF	XDX00063  RTaskbar Integration                                                                     NNNNNNNNNNN         N
-DF	XDX00069  RPopup Panels                                                                            NNNNNNNNNNN         N
-DF	XDX00071  REmployee Details Popup                                                                  NNNNNNNNNNN         N
-DF	XDX00072  RPopup Panel TileDesign                                                                  NNNNNNNNNNN         N
-DF	XDX00073  RPopupPanel Context Menu                                                                 NNNNNNNNNNN         N
-DF	XDX00077  RRouted Events                                                                           NNNNNNNNNNN         N
-DF	XDX00078  RDrag and Drop Panel                                                                     NNNNNNNNNNN         N
-DF	XDX00079  RTree Design                                                                             NNNNNNNNNNN         N
-DF	XDX00083  RReflecting Image                                                                        NNNNNNNNNNN         N
+DF	XDX00003  RBrushes
+DF	XDX00004  RShared Application Object
+DF	XDX00005  RTree Design
+DF	XDX00006  RTile Control
+DF	XDX00008  RCarousel
+DF	XDX00009  RCarousel Design
+DF	XDX00011  RBanner
+DF	XDX00012  RTileDesign
+DF	XDX00014  RTree
+DF	XDX00015  RPersonnel Tree Design Base Class
+DF	XDX00016  RTree Department Design
+DF	XDX00018  RTree Section Design
+DF	XDX00020  RTree Employee Design
+DF	XDX00025  RTable Layout And Font Rotation
+DF	XDX00026  RBouncing Balls
+DF	XDX00027  RScaling
+DF	XDX00029  RUDC On Demand
+DF	XDX00030  RDynamic Styles
+DF	XDX00031  RBookDesign
+DF	XDX00032  RBook
+DF	XDX00033  RBase Panel
+DF	XDX00035  RScale and Animations
+DF	XDX00059  RHint
+DF	XDX00062  RExamples Tree
+DF	XDX00063  RTaskbar Integration
+DF	XDX00069  RPopup Panels
+DF	XDX00070  RUDC OnDemand Design
+DF	XDX00071  REmployee Details Popup
+DF	XDX00072  RPopup Panel TileDesign
+DF	XDX00073  RPopupPanel Context Menu
+DF	XDX00077  RRouted Events
+DF	XDX00078  RDrag and Drop Panel
+DF	XDX00079  RTree Design
+DF	XDX00083  RReflecting Image
 DF	XDX00001  VDirectX Styles
 EV	X_DOLLAR_SIGN_CHAR  $
 EV	X_HASH_SIGN_CHAR    #
@@ -231,6 +233,9 @@ MT	*MTXTXDX090         Taskbar shows indeterminate state
 MT	*MTXTXDX091         Error
 MT	*MTXTXDX092         This text will become more visible as the brush opacity decreases
 MT	*MTXTXDX093         Adding extra items on reaching the last one
+MT	*MTXTXDX094         UDC On Demand
+MT	*MTXTXDX095         Loading User Designed Control Items on demand
+MT	*MTXTXDX096         Scroll to the end to add more items
 PL	ENG
 PL	FRA
 PL	JPN
