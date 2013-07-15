@@ -88,6 +88,8 @@ DF	XDX00077  RRouted Events
 DF	XDX00078  RDrag and Drop Panel
 DF	XDX00079  RTree Design
 DF	XDX00083  RReflecting Image
+DF	XDX00084  REmployee Image
+DF	XDX00085  RTouch - Image Viewer
 DF	XDX00001  VDirectX Styles
 EV	X_DOLLAR_SIGN_CHAR  $
 EV	X_HASH_SIGN_CHAR    #
@@ -236,6 +238,8 @@ MT	*MTXTXDX093         Adding extra items on reaching the last one
 MT	*MTXTXDX094         UDC On Demand
 MT	*MTXTXDX095         Loading User Designed Control Items on demand
 MT	*MTXTXDX096         Scroll to the end to add more items
+MT	*MTXTXDX097         Using Touch Gestures
+MT	*MTXTXDX098         Rotate, move and scale using touch enabled devices
 PL	ENG
 PL	FRA
 PL	JPN
