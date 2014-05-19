@@ -1,3 +1,4 @@
+CB	 
 DF	XDX00007  BDirectX Banner
 DF	XDX00010  BImage Globe
 DF	XDX00013  BEmployee 32
@@ -42,14 +43,17 @@ DF	XDX00076  BPause 64
 DF	XDX00080  BStop 64
 DF	XDX00081  BWaiting 64
 DF	XDX00082  BWaiting 16
-DF	XDXALPHA  NAlpha 256                                                                               NNNNNNNNNNN         N
-DF	XDXBOOLEA NBoolean                                                                                 NNNNNNNNNNN         N
-DF	XDXCAPTIO NCaption                                                                                 NNNNNNNNNNN         N
-DF	XDXDESC   NDescription                                                                             NNNNNNNNNNN         N
-DF	XDXEXAMPL NExample Identifier                                                                      NNNNNNNNNNN         N
-DF	XDXNUMBER NNumber                                                                                  NNNNNNNNNNN         N
-DF	XDXORIGIN NEvent Origin                                                                            NNNNNNNNNNN         N
-DF	XDXSENDER NEvent Sender                                                                            NNNNNNNNNNN         N
+DF	XDXALPHA  NAlpha 256
+DF	XDXBOOLEA NBoolea
+DF	XDXCAPTIO NCaption
+DF	XDXDATE   NDate
+DF	XDXDESC   NDescription
+DF	XDXEMPLOY NEmployeeSort
+DF	XDXEXAMPL NExample Identifier
+DF	XDXNUMBER NNumber
+DF	XDXORIGIN NEvent Origin
+DF	XDXSENDER NEvent Sender
+DF	XDXVALUE  NGeneric Alphanumeric Value
 DF	XDX00002  FDirectX Examples                                                                        NNNNNNNNNNN         N
 DF	XDX00056  FSettings Dialog                                                                         NNNNNNNNNNN         N
 DF	XDX00061  FBase Form                                                                               NNNNNNNNNNN         N
@@ -95,6 +99,7 @@ EV	X_DOLLAR_SIGN_CHAR  $
 EV	X_HASH_SIGN_CHAR    #
 EV	X_AT_SIGN_CHAR      @
 EV	X_GEN_AT_SIGN_CHAR  @
+IP	                    NO NO                                   Elevated                                NO
 IP	                    NO NO                                   Language
 IP	                    NO NO                                   ProcessName
 IP	                    NO NO                                   FunctionName
@@ -112,6 +117,7 @@ IP	                    NO NO                                   ASST
 IP	                    NO NO                                   UPCF                                    PROMPT
 IP	                    NO NO                                   UPDF                                    PROMPT
 IP	                    NO NO                                   ASTC                                    NO
+IP	                    NO NO                                   DBSetup                                 NO
 IP	                    YESNO                                   DBMSType                                NONE
 IP	                    YESNO                                   DSN
 IP	                    NO NO                                   DBUID
@@ -119,10 +125,14 @@ IP	                    NO NO                                   DBPWD
 IP	                    NO NO                                   DBServer
 IP	                    NO NO                                   DBDBaseName
 IP	                    NO NO                                   UseTrustedConnection                    YES
-IP	                    NO NO                                   UserDBSetup                             NO
 IP	                    NO NO                                   DeletePrevTargetDir                     NO
 IP	                    NO NO                                   PrevApplicFolderName
 IP	                    NO NO                                   InstallListener                         NO
+IP	                    NO NO                                   InstallWebAdministrator                 NO
+IP	                    NO NO                                   InstallIISPlugin                        NO
+IP	                    NO NO                                   InstallWebImages                        NO
+IP	                    NO NO                                   InstallJSM                              NO
+IP	                    NO NO                                   InstallVLF                              NO
 IP	                    NO NO                                   PSTY
 IP	                    NO NO                                   PSLU
 IP	                    NO NO                                   PSUS
@@ -142,6 +152,7 @@ IP	                    NO NO                                   DisplayApplicatio
 IP	                    NO NO                                   DisplayDBDialog                         NO
 IP	                    NO NO                                   DisplayServerSetupDialog                NO
 IP	                    NO NO                                   DisplayServerSetup2Dialog               NO
+IP	                    NO NO                                   QuietInstall                            NO
 MT	*MTXTXDX001         Visual LANSA
 MT	*MTXTXDX002         DirectX Examples
 MT	*MTXTXDX003         Linear - Top to Bottom White To Red
@@ -236,7 +247,7 @@ MT	*MTXTXDX091         Error
 MT	*MTXTXDX092         This text will become more visible as the brush opacity decreases
 MT	*MTXTXDX093         Adding extra items on reaching the last one
 MT	*MTXTXDX094         UDC On Demand
-MT	*MTXTXDX095         Loading User Designed Control Items on demand
+MT	*MTXTXDX095         Loading User Designed Control items on demand
 MT	*MTXTXDX096         Scroll to the end to add more items
 MT	*MTXTXDX097         Using Touch Gestures
 MT	*MTXTXDX098         Rotate, move and scale using touch enabled devices
